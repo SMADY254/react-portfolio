@@ -5,7 +5,7 @@ const meta = {
 };
 
 const introdata = {
-    title: "I’m Brian Marende",
+    title: "I am  Brian Marende",
     animated: {
         first: "I love figma designing",
         second: "I love developing FrontEnds",
