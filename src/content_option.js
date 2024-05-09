@@ -1,4 +1,4 @@
-const logotext = "JOHN";
+const logotext = "MARENDE";
 const meta = {
     title: "Brian Marende",
     description: "I’m Brian Marende Figma designer _ Full stack devloper,currently a Student at Kirinyaga University",
