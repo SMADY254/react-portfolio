@@ -23,9 +23,9 @@ const meta = {
 const introdata = {
   title: "I am  Brian Marende",
   animated: {
-    first: "I love figma designing",
-    second: "I love developing FrontEnds",
-    third: "I am interested in learning Amazon Web Service",
+    first: "I love developing FrontEnds",
+    second: "I love UI/UX designing",
+    third: "I love graphics designing",
   },
   description:
     "Open communications ,Team work , Respect and Hardwork creates SUCCESS",
